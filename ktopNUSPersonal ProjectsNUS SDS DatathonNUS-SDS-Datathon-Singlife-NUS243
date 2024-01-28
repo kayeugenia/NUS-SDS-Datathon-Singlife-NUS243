@@ -1,0 +1,657 @@
+[33mcommit 7fdb78040b111aeb9b32ac51bdb24d8d4cf99693[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32myuenning[m[33m, [m[1;31morigin/yuenning[m[33m)[m
+Merge: 99e8888 36bdbef
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Mon Jan 29 01:09:11 2024 +0800
+
+    Merge branch 'yuenning' of https://github.com/kayeugenia/NUS-SDS-Datathon-Singlife-NUS243 into yuenning
+
+[33mcommit 99e8888d111790bde8dbb75fba134c07f37e6455[m
+Merge: a4d2076 69ac720
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Mon Jan 29 01:08:18 2024 +0800
+
+    Merge branch 'main' of https://github.com/kayeugenia/NUS-SDS-Datathon-Singlife-NUS243 into yuenning
+
+[33mcommit a4d2076416707e203f874f129b14be9c3f03d4d0[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Mon Jan 29 01:07:41 2024 +0800
+
+    fail
+
+[33mcommit 36bdbeff150f81cf118d960026a18fb223452e19[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Mon Jan 29 01:07:01 2024 +0800
+
+    define model (modified testing_hidden_data)
+
+[33mcommit 69ac7206b1ce71ed9d8ecc52560256ddaa86b21d[m
+Merge: 1a7d4c2 66b9b3c
+Author: My Tran <133477718+aemeeeee@users.noreply.github.com>
+Date:   Sun Jan 28 23:50:56 2024 +0700
+
+    Merge pull request #14 from kayeugenia/emmy
+    
+    cleaning data types and encoding
+
+[33mcommit 66b9b3c2e19b562c1840e21db1a56683d3b9eecf[m[33m ([m[1;31morigin/emmy[m[33m)[m
+Merge: b3046ba 1a7d4c2
+Author: Emmy <hmy1504@gmail.com>
+Date:   Mon Jan 29 00:48:23 2024 +0800
+
+    Merge branch 'main' of https://github.com/kayeugenia/NUS-SDS-Datathon-Singlife-NUS243 into emmy
+
+[33mcommit b3046ba4e51070dffed661586a603cc32a72204d[m
+Author: Emmy <hmy1504@gmail.com>
+Date:   Mon Jan 29 00:43:36 2024 +0800
+
+    cleaning data type and encoding
+
+[33mcommit c1ddeefe09f0203d70cca22040ea009b2926b937[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Mon Jan 29 00:40:48 2024 +0800
+
+    modify test
+
+[33mcommit df3324f0398efda9508fee7133d694a3b0614caf[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Mon Jan 29 00:37:06 2024 +0800
+
+    testing fill hidden data y
+
+[33mcommit 107ce2402461cf425fd9f2bf55fdf34e285b69ea[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 23:58:57 2024 +0800
+
+    define model
+
+[33mcommit a9a599683a8c480b9a3ec8e38c334d29d06d046b[m
+Merge: 731d36d 1a7d4c2
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 22:49:48 2024 +0800
+
+    Merge branch 'main' of https://github.com/kayeugenia/NUS-SDS-Datathon-Singlife-NUS243 into yuenning
+
+[33mcommit 1a7d4c23ee66c5f50758e7f0e61fb2560a3085c9[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sun Jan 28 22:45:15 2024 +0800
+
+    push define model
+
+[33mcommit 731d36d25bcbbd50a5b1b0bb4058ec254fd9265d[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 22:35:24 2024 +0800
+
+    fix smote
+
+[33mcommit d399e9b5fc323e463e6f14054708a2b1c4d13398[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 21:35:04 2024 +0800
+
+    fix smote with pca
+
+[33mcommit 1cf33771f63939f6f18dee28b0ea4281d89d7558[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 21:13:37 2024 +0800
+
+    removed pd.getDummies
+
+[33mcommit 574dc98573f6bf2d340779e3c93bc9953fb13f1e[m
+Merge: 2a4dfa2 c0e4d50
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sun Jan 28 17:43:55 2024 +0800
+
+    Merge pull request #9 from kayeugenia/yuenning
+    
+    fix imports
+
+[33mcommit c0e4d50d7f0eacf64e70fd98bd1f93aadeb5d0fd[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 17:43:29 2024 +0800
+
+    fix imports
+
+[33mcommit 2a4dfa22be86425b235c3f53c89069055823a0cb[m
+Merge: bdbb8d5 de10ef0
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sun Jan 28 17:41:16 2024 +0800
+
+    Merge pull request #8 from kayeugenia/yuenning
+    
+    implement smote
+
+[33mcommit de10ef02950aa9f182295923c20e8c82601df21c[m
+Merge: a803945 bdbb8d5
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 17:40:56 2024 +0800
+
+    Merge branch 'main' of https://github.com/kayeugenia/NUS-SDS-Datathon-Singlife-NUS243 into yuenning
+
+[33mcommit a803945d725ab8fde39bcdbe3e3728270dd1658c[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 17:37:41 2024 +0800
+
+    removed test
+
+[33mcommit b54c0b785336c158e78493b213627aeec461993f[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 17:22:23 2024 +0800
+
+    implement smote
+
+[33mcommit bdbb8d56d01a3c340e91b041c98347f944f7e99b[m
+Merge: 6644064 a96730a
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sun Jan 28 16:30:28 2024 +0800
+
+    Merge pull request #7 from kayeugenia/kay
+    
+    Attempt gradient boosting
+
+[33mcommit a96730a4630919334d0620af08101fac078d7cfa[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sun Jan 28 16:29:26 2024 +0800
+
+    add num purchase to features
+
+[33mcommit dae8df87851200741c81a6c72f07ba91bc93c835[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sun Jan 28 16:23:28 2024 +0800
+
+    edit title
+
+[33mcommit d28cda2578289de850681227e247b3bbc0826d01[m
+Merge: d484abb 6644064
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sun Jan 28 16:21:49 2024 +0800
+
+    fix conflict pull main
+
+[33mcommit d484abbdd232aa80fb3b5f61daac2a4f179d41b5[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sun Jan 28 16:04:17 2024 +0800
+
+    attempting model using XGBoost
+
+[33mcommit 66440644f153c6218fcd570c6e06bb5cb5926a77[m
+Merge: a7d5a67 03c37bb
+Author: My Tran <133477718+aemeeeee@users.noreply.github.com>
+Date:   Sun Jan 28 14:50:31 2024 +0700
+
+    Merge pull request #6 from kayeugenia/emmy
+    
+    add num_purchase col
+
+[33mcommit 03c37bb95ba6b15936ee3ca6a6d8b7a9236cdcc7[m
+Author: Emmy <hmy1504@gmail.com>
+Date:   Sun Jan 28 15:49:12 2024 +0800
+
+    add num_purchase col
+
+[33mcommit 9edcfe39daa220a271e119392659a5750ac3241c[m
+Merge: cbaaa03 a7d5a67
+Author: Emmy <hmy1504@gmail.com>
+Date:   Sun Jan 28 14:33:41 2024 +0800
+
+    Merge branch 'main' into emmy
+
+[33mcommit a7d5a67fff79da0f1a582c700b5192fc0c0111ce[m
+Author: Emmy <hmy1504@gmail.com>
+Date:   Sun Jan 28 14:32:24 2024 +0800
+
+    edit title
+
+[33mcommit cbaaa03e5eea9e0a7c86221eda0fa1dd7e416a98[m
+Author: Emmy <hmy1504@gmail.com>
+Date:   Sun Jan 28 14:30:18 2024 +0800
+
+    edit title
+
+[33mcommit 3e7426893772111be4ae9c7431d039887e114eae[m
+Merge: ba9fed8 122d79f
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sun Jan 28 14:22:18 2024 +0800
+
+    Merge pull request #5 from kayeugenia/yuenning
+    
+    fix bugs
+
+[33mcommit 122d79f9c0c25e1ba2479946470883e4ca609795[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 14:21:37 2024 +0800
+
+    fix errors
+
+[33mcommit 9daeb2da659d4d8d754c21f81cad4fb19245231b[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 14:21:03 2024 +0800
+
+    fix errors
+
+[33mcommit ba9fed82709affbf993ef662bc40f46025404da2[m
+Merge: aa76dcd e829fc8
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sun Jan 28 14:11:47 2024 +0800
+
+    Merge pull request #4 from kayeugenia/yuenning
+    
+    rearrange into functions
+
+[33mcommit e829fc867ed582dddcdd9e802c95c6206b605158[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sun Jan 28 14:10:57 2024 +0800
+
+    rearrange into functions
+
+[33mcommit aa76dcd92cbe54caca35f0cf2b577d26b1c2afab[m
+Merge: 162a1ca e5ac689
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sat Jan 27 22:39:34 2024 +0800
+
+    Merge pull request #1 from kayeugenia/yuenning
+    
+    yuenning's commits
+
+[33mcommit e5ac689c5dfa09cf62685586397da7f0dd287683[m
+Merge: ee2429c 162a1ca
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sat Jan 27 22:30:26 2024 +0800
+
+    Merge branch 'main' of https://github.com/kayeugenia/NUS-SDS-Datathon-Singlife-NUS243 into yuenning
+
+[33mcommit ee2429cf5a4d99088495c9204e6888345b816d50[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sat Jan 27 22:26:48 2024 +0800
+
+    merged
+
+[33mcommit 162a1ca13735f1e379f640ba80535caa23b0d51b[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 22:22:14 2024 +0800
+
+    update feature selection
+
+[33mcommit 768d85ece60bbd1e6a21aa15a4d3d5e243d257a7[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 22:21:20 2024 +0800
+
+    update feature selection
+
+[33mcommit 74c192126720b510068afb873cc3730199657d1f[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sat Jan 27 21:52:40 2024 +0800
+
+    add
+
+[33mcommit d865cac69fb13b6b673de26c4eef000b8da62968[m
+Merge: 88805e4 4e50713
+Author: dianeteo <133025802+dianeteo@users.noreply.github.com>
+Date:   Sat Jan 27 21:11:08 2024 +0800
+
+    Merge pull request #2 from kayeugenia:selectkbest
+    
+    select k best feature selection
+
+[33mcommit 4e5071397bddc4a79445e452b2fc30f744d96675[m[33m ([m[1;31morigin/selectkbest[m[33m)[m
+Author: dianeteo <teo.minxuan.diane@gmail.com>
+Date:   Sat Jan 27 21:07:51 2024 +0800
+
+    select k best feature selection
+
+[33mcommit 2bd1fdeacfa82fa4119af8c3617711db4ec016b3[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sat Jan 27 20:39:14 2024 +0800
+
+    merge both jupyter notebooks into one
+
+[33mcommit 3bba7fde01fa9f0a836acca305d1730e84742e83[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sat Jan 27 20:37:18 2024 +0800
+
+    implement one-hot encoding for categorical variables
+
+[33mcommit b6f87ea86e47a5158049e910d5d9f027426a9632[m
+Merge: de81cde 88805e4
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sat Jan 27 19:12:16 2024 +0800
+
+    Merge branch 'main' of https://github.com/kayeugenia/NUS-SDS-Datathon-Singlife-NUS243 into yuenning
+
+[33mcommit de81cdeebcfd7f19c8618228c3f4b93644ca9170[m[33m ([m[1;32mmain[m[33m)[m
+Author: Ng Yuen Ning <ngyuenning@u.nus.edu>
+Date:   Sat Jan 27 19:08:09 2024 +0800
+
+    do Point-Biserial Correlation
+
+[33mcommit 88805e448d45ac9813ec4c912626d182cae6d8ac[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 15:49:05 2024 +0800
+
+    feature selection
+
+[33mcommit d4cafa142191a37b409f93911a9ffd7a14dfa41b[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 15:22:02 2024 +0800
+
+    edit data exploration
+
+[33mcommit a0938276b25323a9866f5f2cbcf24ff6b9a62c9c[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 15:20:53 2024 +0800
+
+    edit data exploration
+
+[33mcommit 42b7c29825a2f851249f9e49a7ce93aab087d431[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 15:14:23 2024 +0800
+
+    rename, add data exploration
+
+[33mcommit d931061c432bef6ad5acc2f48814193be9f5d480[m
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sat Jan 27 11:06:19 2024 +0800
+
+    Delete datathon.parquet
+
+[33mcommit 8da78185f1197ca500cd4231313089489a2d8256[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 10:38:38 2024 +0800
+
+    reorder
+
+[33mcommit 14b0df9fdeadeb471bdb71bb6cb473081051d246[m
+Merge: 6f4aab4 b5d7f1b
+Author: My Tran <133477718+aemeeeee@users.noreply.github.com>
+Date:   Sat Jan 27 01:32:27 2024 +0700
+
+    Merge pull request #7 from yuenning/emmy
+    
+    uncomment filepath
+
+[33mcommit b5d7f1b989b3d3b718d08e5ac06581edb7bc2b89[m
+Author: Emmy <hmy1504@gmail.com>
+Date:   Sat Jan 27 02:30:40 2024 +0800
+
+    uncomment filepath
+
+[33mcommit 6f4aab4a6cef6c7d9134bf615bf0ad21da9556ad[m
+Merge: a27d4d6 8e843b3
+Author: My Tran <133477718+aemeeeee@users.noreply.github.com>
+Date:   Sat Jan 27 01:23:09 2024 +0700
+
+    Merge pull request #6 from yuenning/emmy
+    
+    organise structure
+
+[33mcommit 8e843b37d0119f1d61c047dfda1c101416a2b859[m
+Author: Emmy <hmy1504@gmail.com>
+Date:   Sat Jan 27 02:21:50 2024 +0800
+
+    organise structure
+
+[33mcommit a27d4d6d6cc8fb9fc2b7b7855c00ac464d39db03[m
+Merge: 467a893 972167b
+Author: My Tran <133477718+aemeeeee@users.noreply.github.com>
+Date:   Sat Jan 27 00:19:54 2024 +0700
+
+    Merge pull request #5 from yuenning/emmy
+    
+    lapse and purchase history 1am
+
+[33mcommit 972167b965820d4d3bb03071215ee9bdbe7e4ce1[m
+Author: Emmy <hmy1504@gmail.com>
+Date:   Sat Jan 27 01:13:48 2024 +0800
+
+    lapse and purchase history
+
+[33mcommit 467a893fe3daf0bd7eadd88438be429de2459a2c[m
+Author: dianeteo <teo.minxuan.diane@gmail.com>
+Date:   Sat Jan 27 00:53:28 2024 +0800
+
+    shift df
+
+[33mcommit 5a95642c916886afb07d2468c9e1bfc6b9613f29[m
+Merge: fc2c4e9 58f15c4
+Author: dianeteo <teo.minxuan.diane@gmail.com>
+Date:   Sat Jan 27 00:51:34 2024 +0800
+
+    Merge branch 'main' of https://github.com/yuenning/NUS-SDS-Datathon-Singlife-redpandas
+
+[33mcommit fc2c4e9f5f74c157bcf4328840034787aaabb099[m
+Merge: b783a09 0628005
+Author: dianeteo <teo.minxuan.diane@gmail.com>
+Date:   Sat Jan 27 00:50:43 2024 +0800
+
+    Merge branch 'main' of https://github.com/yuenning/NUS-SDS-Datathon-Singlife-redpandas
+
+[33mcommit 58f15c4f63220a6bdf599e0e9de8d2faeeae3d72[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 00:48:00 2024 +0800
+
+    fix
+
+[33mcommit b783a099221dbdae765dd99953f5872682ab61f3[m
+Author: dianeteo <teo.minxuan.diane@gmail.com>
+Date:   Sat Jan 27 00:47:08 2024 +0800
+
+    defined df
+
+[33mcommit 06280051368889cce6cd8d95be442030272754b3[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 00:46:34 2024 +0800
+
+    fix
+
+[33mcommit 1242160caf3b604cc52bd03ea6af3a3c65309254[m
+Author: dianeteo <teo.minxuan.diane@gmail.com>
+Date:   Sat Jan 27 00:38:18 2024 +0800
+
+    data cleaning diane
+
+[33mcommit 819776d9c7000eafd3857aca030f89518dce0efd[m
+Merge: 0207932 69c7812
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 00:23:50 2024 +0800
+
+    Merge pull request #2 from yuenning/EDA
+    
+    cleanup initial commit
+
+[33mcommit 69c7812fa184593e5d0d5553154df5828a863bd2[m[33m ([m[1;31morigin/EDA[m[33m)[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Sat Jan 27 00:19:34 2024 +0800
+
+    cleanup initial commit
+
+[33mcommit 0207932e81e98c0655cfd531dc3d8c4906a5a9e2[m[33m ([m[1;31morigin/data_cleaning[m[33m)[m
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sat Jan 27 00:11:30 2024 +0800
+
+    Delete ~$halfCleandDataset.xlsx
+    
+    Signed-off-by: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+
+[33mcommit 66f913945ae99fb8bec5c8989af2d6fa445c1154[m
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sat Jan 27 00:11:16 2024 +0800
+
+    Delete halfCleandDataset.xlsx
+    
+    Signed-off-by: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+
+[33mcommit 9f5475d2db2512e708280ac7f5c0b404048b6933[m
+Merge: 3d12abb 8dfe2b6
+Author: Yuen Ning <124949039+yuenning@users.noreply.github.com>
+Date:   Sat Jan 27 00:04:26 2024 +0800
+
+    Merge pull request #1 from yuenning/EDA
+    
+    Data Cleaning by Kay
+
+[33mcommit 3d12abb5a52517b138d62b6cbaf69523c37105e0[m
+Author: dianeteo <133025802+dianeteo@users.noreply.github.com>
+Date:   Fri Jan 26 23:43:53 2024 +0800
+
+    data cleaning pt2
+
+[33mcommit 8dfe2b64464491ee8b99f8f8ef4307484a293031[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Fri Jan 26 23:39:21 2024 +0800
+
+    EDA cleanup initial commit
+
+[33mcommit 312a1a06b29ad6d112d470363c2e6acb45742671[m
+Author: Kay Eugenia Purnama <122983473+kayeugenia@users.noreply.github.com>
+Date:   Fri Jan 26 23:33:13 2024 +0800
+
+    initial EDA
+
+[33mcommit 37130ea60d618b5913f40f84588aae647d68aa3d[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Thu Jan 25 16:03:39 2024 +0800
+
+    updated README.md
+
+[33mcommit 7f36025fa50def6ca1ebef665f6575b8c1e1da04[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Thu Jan 25 13:23:07 2024 +0800
+
+    updated README.md
+
+[33mcommit 9e1281d7d0916f3e5dbe152e308988e6521ffcfd[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Thu Jan 25 13:16:58 2024 +0800
+
+    updated README.md
+
+[33mcommit 03f5314f785edddda0b80562da9690d7abc5590d[m
+Author: cowboygarage <roydontay21@gmail.com>
+Date:   Thu Jan 25 10:38:35 2024 +0800
+
+    Update NUS_DATATHON_SINGLIFE_TEAM NAME.ipynb
+    
+    Changed filepath in notebook to train dataset filename
+
+[33mcommit 75fbf5ad86893dc3423bcb99f23b6f535030cd86[m
+Merge: 13727aa a359981
+Author: cowboygarage <roydontay21@gmail.com>
+Date:   Thu Jan 25 09:53:03 2024 +0800
+
+    Merge branch 'main' of https://github.com/Joseph31416/NUS-SDS-Datathon-Singlife
+
+[33mcommit 13727aa7eb4c5da0eb9f40f747524be7dbcaaed5[m
+Author: cowboygarage <roydontay21@gmail.com>
+Date:   Thu Jan 25 09:52:58 2024 +0800
+
+    Update NUS_DATATHON_SINGLIFE_TEAM NAME.ipynb
+    
+    Created a cell for participants to test if testing_hidden_data function is working as expected.
+
+[33mcommit a359981b532524beb7ab5e4e05ffdff8b2a989a1[m
+Author: Bharath Shankar <coolbharath2@gmail.com>
+Date:   Thu Jan 25 05:42:16 2024 +0530
+
+    Update GPG_Guide.md
+
+[33mcommit ae96c8637f1f23f69ea09d4f5aa3f97fd079b21f[m
+Author: cowboygarage <roydontay21@gmail.com>
+Date:   Thu Jan 25 08:07:51 2024 +0800
+
+    Create GPG_Guide.md
+
+[33mcommit 38294e1b7388be1183ddfd9042238e15b4ecff2f[m
+Author: Bharath Shankar <coolbharath2@gmail.com>
+Date:   Thu Jan 25 03:55:08 2024 +0530
+
+    Update .gitignore
+
+[33mcommit 1ad21a45877659850668fe43e55fcbfc50d4591b[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Wed Jan 24 23:22:29 2024 +0800
+
+    updated README.md
+
+[33mcommit 47607dd81f535e591b498681f2ffe511a4a45faf[m
+Author: cowboygarage <roydontay21@gmail.com>
+Date:   Wed Jan 24 18:29:15 2024 +0800
+
+    Update .gitignore
+    
+    Updated .gitignore to ignore data folder
+
+[33mcommit f0d44ff843c6f9bef1b5331fdcc4d356c3ab3815[m
+Author: cowboygarage <roydontay21@gmail.com>
+Date:   Wed Jan 24 18:25:38 2024 +0800
+
+    Create _.keep
+
+[33mcommit 05e901dc3ccd3676d60f1714d31f7cba61674e76[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Wed Jan 24 12:36:51 2024 +0800
+
+    minor changes to README.md
+
+[33mcommit b96afa1676d9f2ebf2ca2e56ed3cc4df961f30e9[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Wed Jan 24 12:34:33 2024 +0800
+
+    added column descriptions
+
+[33mcommit efc7157022ae9d3854d748e0dec11bd9577e6b57[m
+Author: Rikhil-6 <115933059+Rikhil-6@users.noreply.github.com>
+Date:   Tue Jan 23 15:31:08 2024 +0800
+
+    Delete NUS_Datathon_2024_TEAM NAME.ipynb
+
+[33mcommit de06971d014acecc653c1b77b093e767f14df1e6[m
+Merge: e6ac8bf 66c8262
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Tue Jan 23 14:44:07 2024 +0800
+
+    Merge pull request #2 from Joseph31416/submission-instructions
+    
+    Submission instructions
+
+[33mcommit e6ac8bf6bf11f2cb3b3d987a71fa476a167e0adf[m
+Merge: 77ba185 c7c5785
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Tue Jan 23 14:43:43 2024 +0800
+
+    Merge pull request #1 from Joseph31416/Rikhil-6-patch-1
+    
+    Notebook file added
+
+[33mcommit 66c82626ba6fba5b9de74292264b2b86ad802a11[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Tue Jan 23 12:51:56 2024 +0800
+
+    minor changes
+
+[33mcommit c7c5785d7f9eda15586aaeed1a29c8b51835b88d[m
+Author: Rikhil-6 <115933059+Rikhil-6@users.noreply.github.com>
+Date:   Tue Jan 23 12:32:25 2024 +0800
+
+    Add files via upload
+
+[33mcommit fbea5cfd9d8e8d288698fa55f49ea507e46bbca1[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Tue Jan 23 12:01:12 2024 +0800
+
+    minor changes
+
+[33mcommit b4bc25038c839a001757af3babed3b7003a7e0c5[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Tue Jan 23 11:42:43 2024 +0800
+
+    added submission instructions in README.md
+
+[33mcommit 8ee14b7ac6a7c378bbcb2c1475bdbd83e23060a4[m
+Author: Rikhil-6 <115933059+Rikhil-6@users.noreply.github.com>
+Date:   Tue Jan 23 10:18:55 2024 +0800
+
+    Add files via upload
+
+[33mcommit 77ba1853152a549bb5184e847430d85ab396be5a[m
+Author: Teoh Tze Tzun <northan616@gmail.com>
+Date:   Tue Jan 23 08:29:23 2024 +0800
+
+    Initial commit
